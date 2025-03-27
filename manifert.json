@@ -1,0 +1,17 @@
+{
+    "name": "pogoda na swiecie",
+    "short_name": "pogoda",
+    "theme_color": "#d0032d",
+    "background_color": "#008eff",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA/",
+    "icons": [
+        {
+            "src":"./logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
